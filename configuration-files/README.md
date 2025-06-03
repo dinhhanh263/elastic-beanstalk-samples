@@ -18,7 +18,7 @@ Include detailed usage instructions in the configuration file itself, in comment
 #### configuration (default VPC, custom VPC or no VPC), and reference other files that may be used
 #### in conjunction with this one. The bounding hash marks are 99 characters long.
 ####
-#### Author: @yourusername
+#### Author: @yourusername Dinh Van Hanh
 ###################################################################################################
 ```
 Gather all user-configurable values as close to the top of the file as possible. Use parameters and
